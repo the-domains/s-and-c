@@ -2,16 +2,16 @@
     <channel>
         <title><![CDATA[Strength & Conditioning]]></title>
         <description><![CDATA[Strength & Conditioning]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/s-and-c/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 05 Apr 2016 18:22:28 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Tue, 05 Apr 2016 18:48:23 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/s-and-c/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[S&C Introduction]]></title>
-            <description><![CDATA[<article><h1>S&C Introduction</h1><p>Strength and Conditioning Introduction</p></article>]]></description>
-            <link>undefinedsandc-introduction/index.html</link>
+            <description><![CDATA[<article><h1>S&C Introduction</h1><p>Strength and Conditioning Introduction</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/08a7d5b1-06ae-4e2c-a4a6-8ec6b4424596.jpg"></article>]]></description>
+            <link>https://thegrid.ai/s-and-c/sandc-introduction/index.html</link>
             <guid isPermaLink="false">5f8ba0f8-7e4a-44aa-8a8a-6b54e718c001</guid>
-            <pubDate>Tue, 05 Apr 2016 18:22:24 GMT</pubDate>
+            <pubDate>Tue, 05 Apr 2016 18:47:42 GMT</pubDate>
         </item>
     </channel>
 </rss>
