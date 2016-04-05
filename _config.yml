@@ -2,6 +2,7 @@ name: 'S&C'
 favicon: null
 layout_spectrum: 0.2058630008250475
 typography_spectrum: 0.6661174818873405
+title: 'Strength & Conditioning'
 cta:
   domain: null
   bucket: null
